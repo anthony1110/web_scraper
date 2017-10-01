@@ -4,7 +4,7 @@ This web_scraper is use to crawl news info and it is built on top of django and 
 
 Project Requirements
 ----------------------------
-1. django
+1. django & django rest framework for API. 
 2. scrapy
 3. mongoDB
 4. mysql
